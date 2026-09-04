@@ -1,0 +1,1 @@
+# QuimicaGeneral2026
