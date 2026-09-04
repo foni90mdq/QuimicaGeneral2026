@@ -1,6 +1,6 @@
 # Problema 1 – Determinación de la concentración de una solución de HNO₃
 
-En un laboratorio se dispone de una solución concentrada de ácido nítrico, (HNO₃), cuya concentración exacta se desconoce.
+En un laboratorio se dispone de una solución concentrada de ácido nítrico, HNO₃, cuya concentración exacta se desconoce.
 
 Se toman 10,00 mL de esta solución y se transfieren cuantitativamente a un matraz aforado de 250,0 mL, completándose el volumen con agua destilada.
 
@@ -14,18 +14,19 @@ Los siguientes volúmenes de KOH fueron consumidos:
 | 2 | 18,58 |
 | 3 | 18,61 |
 
-
 ## Preguntas
 
-**a)** Calcule el volumen promedio de KOH consumido.
+**a)** Escriba y balancee la ecuación química correspondiente a la reacción de neutralización entre HNO₃ y KOH.
 
-**b)** Calcule los moles de KOH utilizados en el punto de equivalencia.
+**b)** Para cada una de las tres titulaciones, calcule los moles de KOH utilizados para alcanzar el punto de equivalencia.
 
-**c)** Determine la concentración molar de HNO₃ en la solución diluida.
+**c)** Determine la concentración molar de HNO₃ en la solución diluida correspondiente a cada una de las tres titulaciones.
 
-**d)** Determine la concentración molar de HNO₃ en la solución original (tenga en cuanta todos los valores e informe la concentracion de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones).
+**d)** Teniendo en cuenta la dilución realizada inicialmente, determine la concentración molar de HNO₃ en la solución original correspondiente a cada una de las tres titulaciones.
 
-**e)** Exprese la concentración de la solución original en g de HNO₃/L.
+**e)** A partir de los resultados obtenidos en el punto anterior, calcule la concentración promedio y el desvío estándar. Informe la concentración de la solución original de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones.
+
+**f)** Exprese la concentración promedio de la solución original en g de HNO₃/L.
 
 Dato:
 
@@ -33,7 +34,7 @@ $$
 M_{\mathrm{HNO_3}} = 63,01\ \mathrm{g/mol}
 $$
 
-**f) Preguntas conceptuales**
+## Preguntas conceptuales
 
 1. ¿Cuál es la diferencia entre punto de equivalencia y punto final de una titulación?
 
@@ -42,6 +43,9 @@ $$
 
 3. ¿Qué ocurriría con la concentración calculada de HNO₃ si el estudiante se pasa del punto final y agrega un exceso de KOH?
 
+4. ¿Qué información aporta el desvío estándar de las determinaciones realizadas?  
+   ¿Un desvío estándar pequeño implica necesariamente que el valor obtenido sea exacto? Justifique.
+
 
 ---
 
@@ -49,7 +53,7 @@ $$
 
 Se dispone de una solución de H₂SO₄ 0,750 mol/L. Para utilizarla en una titulación, se toman 20,00 mL y se diluyen en un matraz aforado hasta un volumen final de 250,0 mL.
 
-Posteriormente se toman 25,00 mL de la solución diluida de H₂SO₄ y se titulan con una solución de NaOH de concentración desconocida.
+Posteriormente se toman alícuotas de 25,00 mL de la solución diluida de H₂SO₄ y se titulan con una solución de NaOH de concentración desconocida.
 
 Los volúmenes de NaOH obtenidos en tres titulaciones son:
 
@@ -59,22 +63,23 @@ Los volúmenes de NaOH obtenidos en tres titulaciones son:
 | 2 | 14,96 |
 | 3 | 14,99 |
 
-
 ## Preguntas
 
-**a)** Calcule la concentración de H₂SO₄ después de la dilución.
+**a)** Escriba y balancee la ecuación química correspondiente a la reacción de neutralización entre H₂SO₄ y NaOH.
 
-**b)** Calcule los moles de H₂SO₄ presentes en una alícuota de 25,00 mL.
+**b)** Calcule la concentración de H₂SO₄ después de la dilución.
 
-**c)** A partir de la ecuación química, determine cuántos moles de NaOH se necesitan para alcanzar el punto de equivalencia.
+**c)** Calcule los moles de H₂SO₄ presentes en una alícuota de 25,00 mL.
 
-**d)** Calcule el volumen promedio de NaOH consumido.
+**d)** A partir de la ecuación química balanceada, determine cuántos moles de NaOH se necesitan para alcanzar el punto de equivalencia.
 
-**e)** Determine la concentración molar de la solución de NaOH (tenga en cuanta todos los valores e informe la concentracion de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones).
+**e)** Determine la concentración molar de NaOH correspondiente a cada una de las tres titulaciones realizadas.
 
-**f)** Si se quisieran preparar 500,0 mL de NaOH 0,0500 mol/L utilizando la solución determinada en el punto anterior, calcule qué volumen de la solución de NaOH debería tomarse y diluirse hasta 500,0 mL.
+**f)** A partir de los resultados obtenidos en el punto anterior, calcule la concentración promedio y el desvío estándar. Informe la concentración de la solución de NaOH de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones.
 
-**g) Preguntas conceptuales**
+**g)** Si se quisieran preparar 500,0 mL de NaOH 0,0500 mol/L utilizando la solución determinada experimentalmente, calcule qué volumen de la solución de NaOH debería tomarse y diluirse hasta 500,0 mL. Utilice para este cálculo la concentración promedio obtenida en el punto anterior.
+
+## Preguntas conceptuales
 
 1. Un estudiante afirma:
 
@@ -82,8 +87,15 @@ Los volúmenes de NaOH obtenidos en tres titulaciones son:
 
    ¿Es correcta esta afirmación? Explique utilizando la reacción entre H₂SO₄ y NaOH.
 
-2. ¿Por qué el volumen de agua agregado al realizar una dilución sí modifica la concentración, mientras que agregar agua destilada al Erlenmeyer durante una titulación no modifica la cantidad de titulante necesaria para alcanzar la equivalencia?
+2. ¿Por qué el volumen de agua agregado al realizar una dilución sí modifica la concentración, mientras que agregar agua destilada al Erlenmeyer durante una titulación no modifica la cantidad de titulante necesaria para alcanzar el punto de equivalencia?
 
 3. ¿Sería correcto enjuagar el Erlenmeyer con la solución de H₂SO₄ antes de colocar la alícuota de 25,00 mL? Explique.
 
 4. ¿Por qué es necesario balancear correctamente la ecuación química antes de utilizar los datos de una titulación?
+
+5. Dos grupos realizan tres determinaciones de la concentración de una misma solución y obtienen los siguientes resultados:
+
+   - Grupo A: 0,101; 0,102 y 0,101 mol/L
+   - Grupo B: 0,096; 0,102 y 0,107 mol/L
+
+   Sin realizar cálculos detallados, ¿cuál de los dos grupos presenta mayor precisión? Justifique.
