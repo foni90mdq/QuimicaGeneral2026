@@ -23,7 +23,7 @@ Los siguientes volúmenes de KOH fueron consumidos:
 
 **c)** Determine la concentración molar de HNO₃ en la solución diluida.
 
-**d)** Determine la concentración molar de HNO₃ en la solución original.
+**d)** Determine la concentración molar de HNO₃ en la solución original (tenga en cuanta todos los valores e informe la concentracion de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones).
 
 **e)** Exprese la concentración de la solución original en g de HNO₃/L.
 
@@ -70,7 +70,7 @@ Los volúmenes de NaOH obtenidos en tres titulaciones son:
 
 **d)** Calcule el volumen promedio de NaOH consumido.
 
-**e)** Determine la concentración molar de la solución de NaOH.
+**e)** Determine la concentración molar de la solución de NaOH (tenga en cuanta todos los valores e informe la concentracion de manera adecuada, teniendo en cuenta tanto las cifras significativas como la variabilidad entre las mediciones).
 
 **f)** Si se quisieran preparar 500,0 mL de NaOH 0,0500 mol/L utilizando la solución determinada en el punto anterior, calcule qué volumen de la solución de NaOH debería tomarse y diluirse hasta 500,0 mL.
 
