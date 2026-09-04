@@ -143,23 +143,15 @@ Queremos calcular una concentración de HCl para **cada titulación realizada**.
 
 Sabemos que:
 
-$$
-C_{\mathrm{NaOH}}=0,1000\ \mathrm{mol/L}
-$$
+$$C_{\mathrm{NaOH}}=0,1000\ \mathrm{mol/L}$$
 
 y:
 
-$$
-V_{\mathrm{HCl}}=10,00\ \mathrm{mL}
-$$
+$$V_{\mathrm{HCl}}=10,00\ \mathrm{mL}$$
 
 Por lo tanto:
 
-$$
-C_{\mathrm{HCl}}
-=
-\frac{0,1000\times V_{\mathrm{NaOH}}}{10,00}
-$$
+$$C_{\mathrm{HCl}}=\frac{0,1000\times V_{\mathrm{NaOH}}}{10,00}$$
 
 Como ambos volúmenes están expresados en mL, las unidades de volumen se cancelan.
 
