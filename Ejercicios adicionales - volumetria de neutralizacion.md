@@ -14,11 +14,6 @@ Los siguientes volúmenes de KOH fueron consumidos:
 | 2 | 18,58 |
 | 3 | 18,61 |
 
-La reacción de neutralización es:
-
-$$
-\mathrm{HNO_3(aq) + KOH(aq) \rightarrow KNO_3(aq) + H_2O(l)}
-$$
 
 ## Preguntas
 
@@ -54,7 +49,7 @@ $$
 
 Se dispone de una solución de H₂SO₄ 0,750 mol/L. Para utilizarla en una titulación, se toman 20,00 mL y se diluyen en un matraz aforado hasta un volumen final de 250,0 mL.
 
-Posteriormente se toman 25,00 mL de la solución diluida de H₂SO₄ y se titulan con una solución de NaOH de concentración desconocida**.
+Posteriormente se toman 25,00 mL de la solución diluida de H₂SO₄ y se titulan con una solución de NaOH de concentración desconocida.
 
 Los volúmenes de NaOH obtenidos en tres titulaciones son:
 
@@ -64,11 +59,6 @@ Los volúmenes de NaOH obtenidos en tres titulaciones son:
 | 2 | 14,96 |
 | 3 | 14,99 |
 
-La reacción de neutralización completa es:
-
-$$
-\mathrm{H_2SO_4(aq) + 2\,NaOH(aq) \rightarrow Na_2SO_4(aq) + 2\,H_2O(l)}
-$$
 
 ## Preguntas
 
