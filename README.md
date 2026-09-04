@@ -9,5 +9,7 @@ Este es un reporsitorio no oficial pero aqui podran encontrar herramientas que p
 
 [Análisis de datos de volumetría en Jamovi](Analisis%20de%20datos%20volumetria%20en%20Jamovi.md)
 
+[Mas analisis de datos para quimica general](https://github.com/foni90mdq/data-analysis-quimica-general#introducci%C3%B3n-al-an%C3%A1lisis-y-representaci%C3%B3n-de-datos-para-qu%C3%ADmica-general)
+
 
 
