@@ -100,12 +100,7 @@ $$C_{\mathrm{HCl}}V_{\mathrm{HCl}}=C_{\mathrm{NaOH}}V_{\mathrm{NaOH}}$$
 
 y despejando la concentración desconocida:
 
-$$
-C_{\mathrm{HCl}}
-=
-\frac{C_{\mathrm{NaOH}}V_{\mathrm{NaOH}}}
-{V_{\mathrm{HCl}}}
-$$
+$$C_{\mathrm{HCl}}=\frac{C_{\mathrm{NaOH}}V_{\mathrm{NaOH}}}{V_{\mathrm{HCl}}}$$
 
 ---
 
