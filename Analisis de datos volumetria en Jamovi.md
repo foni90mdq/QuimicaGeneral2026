@@ -96,11 +96,7 @@ $$
 
 se puede escribir:
 
-$$
-C_{\mathrm{HCl}}V_{\mathrm{HCl}}
-=
-C_{\mathrm{NaOH}}V_{\mathrm{NaOH}}
-$$
+$$C_{\mathrm{HCl}}V_{\mathrm{HCl}}=C_{\mathrm{NaOH}}V_{\mathrm{NaOH}}$$
 
 y despejando la concentración desconocida:
 
