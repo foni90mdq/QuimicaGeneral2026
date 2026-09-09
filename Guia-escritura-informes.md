@@ -271,7 +271,9 @@ A continuación se muestra un ejemplo sencillo de cómo mencionar una figura den
 
 **Ejemplo de figura:**
 
-![Figura 1.](solubilidad.png)
+<p align="center">
+  <img src="figuras/solubilidad.png" width="70%">
+</p>
 
 **Figura 1.** Solubilidad del KNO₃ en agua en función de la temperatura.
 
