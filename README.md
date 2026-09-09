@@ -3,7 +3,7 @@
 Aqui encontraran cosas varias relativas al curso de Quimica General e Inorganica de la Universidad Nacional de Mar del Plata.
 Este es un reporsitorio no oficial pero aqui podran encontrar herramientas que pueden ser utiles tanto para este curso como para otros.
 
-[Guia para escritura de informes](Guia-escritura-informes.md)
+[Guia para escritura de informes](guia-para-redactar-informes.pdf)
 
 [Ejercicios adicionales - volumetría de neutralización](Ejercicios%20adicionales%20-%20volumetria%20de%20neutralizacion.md)
 
