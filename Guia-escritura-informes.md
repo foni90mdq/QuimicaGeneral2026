@@ -233,6 +233,156 @@ Este aspecto puede parecer secundario, pero una buena figura puede hacer que un 
 
 La correcta confección de figuras requiere práctica. Más adelante podrán presentarse ejemplos de buenas y malas formas de organizar la información gráfica.
 
+#### Recomendaciones de estilo
+
+En general, las tablas, figuras y ecuaciones deben presentar la información de forma clara, ordenada y fácil de leer. Se recomienda adoptar un estilo visual sobrio, similar al de muchas publicaciones científicas.
+
+Algunas recomendaciones generales son:
+
+* utilizar fondo blanco;
+* evitar efectos innecesarios como sombras, degradados o gráficos en 3D;
+* usar tipografías simples y legibles;
+* indicar siempre las unidades correspondientes;
+* mantener tamaños de letra legibles;
+* evitar sobrecargar las figuras con demasiada información;
+* usar títulos y leyendas descriptivas;
+* conservar un formato consistente a lo largo de todo el informe.
+
+En el caso particular de los gráficos, se recomienda:
+
+* fondo blanco;
+* ejes claramente visibles;
+* nombres de ejes con sus unidades;
+* símbolos o líneas fáciles de distinguir;
+* leyendas internas solo cuando sean necesarias;
+* escalas apropiadas para representar los datos sin deformarlos.
+
+En el caso de las tablas, suele recomendarse un diseño simple, con una línea horizontal superior, una línea por debajo del encabezado y una línea inferior de cierre. En general, no es necesario recargar la tabla con demasiadas líneas o bordes.
+
+---
+
+#### Ejemplo de inclusión de una figura en el texto
+
+A continuación se muestra un ejemplo sencillo de cómo mencionar una figura dentro de un párrafo.
+
+**Ejemplo de redacción:**
+
+> En la Figura 1 se muestra la variación de la solubilidad del nitrato de potasio en agua en función de la temperatura. Se observa que la solubilidad aumenta marcadamente al incrementarse la temperatura, lo cual indica que, dentro del intervalo estudiado, el proceso de disolución se ve favorecido térmicamente.
+
+**Ejemplo de figura:**
+
+![Figura 1. Gráfico esquemático de ejemplo: solubilidad del KNO₃ en agua en función de la temperatura.](https://dummyimage.com/900x520/ffffff/000000.png\&text=Figura+1+-+Grafico+de+ejemplo)
+
+**Figura 1.** Solubilidad del KNO₃ en agua en función de la temperatura. El gráfico debe presentar fondo blanco, ejes rotulados y unidades: temperatura (°C) en el eje x y solubilidad (g KNO₃ / 100 g H₂O) en el eje y.
+
+**Observación:** en el informe real, en lugar de una figura genérica como la de este ejemplo, deberá insertarse el gráfico confeccionado por el estudiante.
+
+---
+
+#### Ejemplo de inclusión de una tabla en el texto
+
+Las tablas también deben ser introducidas mediante una oración dentro del texto. No conviene “soltar” una tabla sin explicarle al lector qué contiene.
+
+**Ejemplo de redacción:**
+
+> En la Tabla 1 se presentan los volúmenes de NaOH consumidos en tres titulaciones independientes de una misma muestra. Puede observarse una baja dispersión entre las determinaciones, lo que sugiere una buena repetibilidad experimental.
+
+**Ejemplo de tabla:**
+
+**Tabla 1.** Volúmenes de NaOH utilizados en tres titulaciones de una misma muestra.
+
+|    Determinación    | Volumen de NaOH (mL) |
+| :-----------------: | -------------------: |
+|          1          |                18,62 |
+|          2          |                18,58 |
+|          3          |                18,61 |
+|     **Promedio**    |            **18,60** |
+| **Desvío estándar** |             **0,02** |
+
+En este ejemplo, las unidades se indican en el encabezado de la columna, por lo que no es necesario repetirlas en cada celda.
+
+---
+
+#### Ejemplo de inclusión de una ecuación en el texto
+
+Las ecuaciones también deben integrarse dentro de la redacción del informe. Antes o después de presentar una ecuación, debe explicarse brevemente qué representa y, si corresponde, qué significa cada variable.
+
+**Ejemplo de ecuación en línea:**
+
+> La densidad de una muestra puede calcularse a partir de la relación $\rho = \frac{m}{V}$, donde $\rho$ es la densidad, $m$ la masa y $V$ el volumen.
+
+Este es un ejemplo de **ecuación en línea**, es decir, una ecuación escrita dentro del mismo párrafo.
+
+**Ejemplo de ecuación centrada y numerada:**
+
+> La concentración molar de una solución puede calcularse dividiendo la cantidad de sustancia por el volumen de la solución, según se indica en la Ecuación 1.
+
+$$
+C = \frac{n}{V}
+\tag{1}
+$$
+
+donde:
+
+* $C$ es la concentración molar de la solución;
+* $n$ es la cantidad de sustancia, expresada en moles;
+* $V$ es el volumen de la solución, expresado en litros.
+
+**Ejemplo de redacción posterior:**
+
+> A partir de la Ecuación 1 se calculó la concentración de la solución problema utilizando los valores experimentales obtenidos durante el trabajo práctico.
+
+---
+
+#### Ejemplo integrado: texto + tabla + ecuación + figura
+
+A continuación se presenta un ejemplo un poco más completo que muestra cómo podrían integrarse estos elementos dentro de una misma sección de resultados.
+
+**Ejemplo de redacción:**
+
+> Se realizaron tres titulaciones de una solución problema de ácido fuerte utilizando una solución de NaOH de concentración conocida. En la Tabla 2 se muestran los volúmenes de titulante consumidos en cada determinación. A partir de estos datos se calculó el volumen promedio, que luego fue utilizado para determinar la concentración de la muestra.
+>
+> La concentración del ácido se obtuvo aplicando la relación estequiométrica correspondiente a una neutralización 1:1, expresada en la Ecuación 2.
+>
+> $$
+> C_a V_a = C_b V_b
+> \tag{2}
+> $$
+>
+> donde $C_a$ y $V_a$ representan la concentración y el volumen del ácido, mientras que $C_b$ y $V_b$ corresponden a la base. A partir de esta expresión se calculó una concentración de $0,0763 \ \text{mol/L}$ para la solución problema.
+>
+> En la Figura 2 se representa gráficamente el volumen de NaOH utilizado en cada una de las determinaciones. Puede observarse que los valores obtenidos fueron muy similares entre sí, lo que sugiere una buena precisión en las mediciones realizadas.
+
+**Tabla 2.** Volúmenes de NaOH utilizados en la titulación de la muestra problema.
+
+| Determinación | Volumen de NaOH (mL) |
+| :-----------: | -------------------: |
+|       1       |                18,62 |
+|       2       |                18,58 |
+|       3       |                18,61 |
+|  **Promedio** |            **18,60** |
+
+![Figura 2. Gráfico esquemático de ejemplo: volumen de NaOH por determinación.](https://dummyimage.com/900x520/ffffff/000000.png\&text=Figura+2+-+Grafico+de+ejemplo)
+
+**Figura 2.** Volumen de NaOH utilizado en cada determinación. En un gráfico de este tipo, el eje x puede representar el número de determinación y el eje y el volumen medido, expresado en mL.
+
+---
+
+#### Comentarios finales sobre el uso de tablas, figuras y ecuaciones
+
+Las tablas, figuras y ecuaciones no deben colocarse en el informe como elementos aislados. Cada una de ellas debe cumplir una función dentro del desarrollo del texto.
+
+En otras palabras:
+
+* una tabla debe organizar datos de manera más clara que un párrafo;
+* una figura debe ayudar a visualizar una tendencia, una comparación o un esquema;
+* una ecuación debe expresar con precisión una relación matemática utilizada en el análisis.
+
+Si un elemento no aporta claridad o información relevante, probablemente no sea necesario incluirlo.
+
+Por último, siempre debe recordarse que el objetivo principal no es “llenar” el informe con elementos visuales, sino **comunicar los resultados de la manera más clara y prolija posible**.
+
+
 ### Cifras significativas
 
 Deben respetarse las cifras significativas correspondientes a las mediciones realizadas.
