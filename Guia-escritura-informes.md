@@ -271,9 +271,9 @@ A continuación se muestra un ejemplo sencillo de cómo mencionar una figura den
 
 **Ejemplo de figura:**
 
-![Figura 1. Gráfico esquemático de ejemplo: solubilidad del KNO₃ en agua en función de la temperatura.](https://dummyimage.com/900x520/ffffff/000000.png\&text=Figura+1+-+Grafico+de+ejemplo)
+![Figura 1.](solubilidad.png)
 
-**Figura 1.** Solubilidad del KNO₃ en agua en función de la temperatura. El gráfico debe presentar fondo blanco, ejes rotulados y unidades: temperatura (°C) en el eje x y solubilidad (g KNO₃ / 100 g H₂O) en el eje y.
+**Figura 1.** Solubilidad del KNO₃ en agua en función de la temperatura.
 
 **Observación:** en el informe real, en lugar de una figura genérica como la de este ejemplo, deberá insertarse el gráfico confeccionado por el estudiante.
 
