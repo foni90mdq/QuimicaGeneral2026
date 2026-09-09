@@ -362,7 +362,9 @@ A continuación se presenta un ejemplo un poco más completo que muestra cómo p
 |       3       |                18,61 |
 |  **Promedio** |            **18,60** |
 
-![Figura 2. Gráfico esquemático de ejemplo: volumen de NaOH por determinación.](https://dummyimage.com/900x520/ffffff/000000.png\&text=Figura+2+-+Grafico+de+ejemplo)
+<p align="center">
+  <img src="figuras/solubilidad.png" width="70%">
+</p>
 
 **Figura 2.** Volumen de NaOH utilizado en cada determinación. En un gráfico de este tipo, el eje x puede representar el número de determinación y el eje y el volumen medido, expresado en mL.
 
